@@ -18,4 +18,4 @@ I am an entrepreneur and software architect with over two decades of experience 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hiranp/)
 - [Twitter](https://twitter.com/hiranp)
-- 📍 Based in Orlando, FL
+- 📍 Based in Florida
