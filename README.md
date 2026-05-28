@@ -1,4 +1,4 @@
-# Hi, I'm Hiran 👋
+# Hi, I'm HP 👋
 
 Entrepreneur and Software Architect focused on secure, reliable AI systems and distributed infrastructure.
 
